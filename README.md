@@ -1,0 +1,2 @@
+本项目superbpm平台插件项目,需要自定义application.properties的数据源
+如果需要个性化登陆页,可修改shiro.ini文件
