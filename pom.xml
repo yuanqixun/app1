@@ -15,7 +15,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.superbpm.platform</groupId>
-			<artifactId>core</artifactId>
+			<artifactId>platform</artifactId>
 			<version>7.0.0-SNAPSHOT</version>
 			<classifier>plugin</classifier>
 		</dependency>

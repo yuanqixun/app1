@@ -1,6 +1,6 @@
-package com.superbpm.platform.core.app1.dao.test;
+package com.superbpm.apps.app1.dao.test;
 
-import com.superbpm.platform.core.app1.entity.test.Test;
+import com.superbpm.apps.app1.entity.test.Test;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;

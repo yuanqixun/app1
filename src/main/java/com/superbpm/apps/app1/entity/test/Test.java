@@ -1,4 +1,4 @@
-package com.superbpm.platform.core.app1.entity.test;
+package com.superbpm.apps.app1.entity.test;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

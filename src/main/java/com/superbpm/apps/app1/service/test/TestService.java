@@ -1,8 +1,8 @@
-package com.superbpm.platform.core.app1.service.test;
+package com.superbpm.apps.app1.service.test;
 
-import com.superbpm.platform.core.app1.dao.test.TestDao;
-import com.superbpm.platform.core.app1.entity.test.Test;
-import com.superbpm.platform.core.service.security.PasswordHelper;
+import com.superbpm.apps.app1.dao.test.TestDao;
+import com.superbpm.apps.app1.entity.test.Test;
+import com.superbpm.platform.service.security.PasswordHelper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
